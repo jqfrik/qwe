@@ -1,0 +1,2 @@
+cd ForksWebAPI
+dotnet run
